@@ -15,11 +15,11 @@ Este é um projeto de uma aplicação simples para calcular e monitorar o Índic
 O aplicativo fornece uma avaliação do seu IMC com base nos seguintes intervalos:
 
 - **Abaixo de 18.5:** Abaixo do peso.
-- **18.5 a 24.9:** Peso ideal (parabéns!).
+- **18.5 a 24.9:** Peso ideal.
 - **25.0 a 29.9:** Levemente acima do peso.
 - **30.0 a 34.9:** Obesidade grau I.
-- **35.0 a 39.9:** Obesidade grau II (severa).
-- **40.0 ou mais:** Obesidade grau III (mórbida).
+- **35.0 a 39.9:** Obesidade grau II.
+- **40.0 ou mais:** Obesidade grau III.
 
 ## Histórico de IMC
 
