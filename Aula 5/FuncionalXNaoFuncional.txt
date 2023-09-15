@@ -1,0 +1,7 @@
+Teste Funcional: 
+Esses tipos de testes, testam as funcionalidades do programa, ou requisitos especificados, conforme o esperado. 
+Eles nao consideram a estrutura interna do programa(codigo-fonte), baseando-se apenas em entradas e saidas. Ex: Teste de Unidade.
+
+Teste Nao Funcional:
+Esses tipos de testes, testam "caminhos infelizes", quando o software e utilizado de forma errada.
+Ex: Teste com login nao existente.
